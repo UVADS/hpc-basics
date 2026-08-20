@@ -1,0 +1,10 @@
+_extras
+_extras/*
+_site
+_site/*
+_assets
+_assets/*
+.DS_Store
+**/.DS_Store
+.ipynb_checkpoints
+**/.ipynb_checkpoints/
