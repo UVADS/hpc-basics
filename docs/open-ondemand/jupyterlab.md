@@ -1,7 +1,7 @@
 ---
 layout: default
 title: JupyterLab & notebooks
-parent: Open OnDemand interactive apps
+parent: OOD interactive apps
 nav_order: 1
 permalink: /docs/open-ondemand/jupyterlab/
 last_modified_date: "2026-08-20 04:30PM"
@@ -11,7 +11,9 @@ last_modified_date: "2026-08-20 04:30PM"
 
 JupyterLab on Rivanna/Afton runs as an Open OnDemand interactive app on a **compute node** (not a login node). Use it for notebooks, exploratory analysis, and light ML/DL work with optional GPUs.
 
-Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Links: 
+- [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/)
+- Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 

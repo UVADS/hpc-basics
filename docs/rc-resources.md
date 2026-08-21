@@ -48,7 +48,7 @@ Several storage options are available on Rivanna and Afton.
 | `/project` | Leased (1 TB+) | Optional; purchased by faculty PI | Shared group data **and** running HPC jobs | Research Project storage; snapshots; paid |
 | `/standard` | Leased (1 TB+); PIs may get up to 10 TB free | Optional; requested by faculty PI | Longer-term shared results | Research Standard; slower; **don't run jobs here** |
 
-**None of the storage offerings provide backups. You should make it a habit to transfer data to other storage locations.**
+**None of the RC storage offerings provide backups. You should transfer important data to other storage locations on a regular basis.**
 
 Only PIs (faculty) can lease or expand group storage via the [storage request form](https://forms.rc.virginia.edu/form/storage/). **Students cannot place storage change requests.**
 

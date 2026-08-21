@@ -1,7 +1,7 @@
 ---
 layout: default
 title: VSCode (CodeServer)
-parent: Open OnDemand interactive apps
+parent: OOD interactive apps
 nav_order: 3
 permalink: /docs/open-ondemand/vscode/
 last_modified_date: "2026-08-20 04:20PM"

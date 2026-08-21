@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desktop sessions
-parent: Open OnDemand interactive apps
+parent: OOD interactive apps
 nav_order: 4
 permalink: /docs/open-ondemand/desktop/
 last_modified_date: "2026-08-20 04:20PM"
@@ -11,7 +11,9 @@ last_modified_date: "2026-08-20 04:20PM"
 
 The Open OnDemand **Desktop** app starts a full Linux desktop on a **compute node** with the resources you request (including GPUs when needed). Prefer this for compute-heavy GUI work instead of FastX on a login/frontend node.
 
-Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Links: 
+- [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/)
+- Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 

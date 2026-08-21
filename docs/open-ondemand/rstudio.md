@@ -1,7 +1,7 @@
 ---
 layout: default
 title: RStudio Server
-parent: Open OnDemand interactive apps
+parent: OOD interactive apps
 nav_order: 2
 permalink: /docs/open-ondemand/rstudio/
 last_modified_date: "2026-08-20 04:20PM"
@@ -11,7 +11,9 @@ last_modified_date: "2026-08-20 04:20PM"
 
 RStudio Server on Rivanna/Afton is an Open OnDemand interactive app: a full RStudio IDE in the browser on a **compute node**.
 
-Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Links: 
+- [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/)
+- Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 
