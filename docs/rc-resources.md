@@ -33,7 +33,7 @@ Overview: [Compute and Storage](https://rc.virginia.edu/services/compute-and-sto
 
 **Only faculty can request an allocation.** They can add students to the allocation as needed.
 
-Resources: 
+Links: 
 - [Get access to HPC resources](https://rc.virginia.edu/getting-started/get-access-high-performance-computing-resources) 
 - [Pricing](https://rc.virginia.edu/services/pricing)
 
@@ -48,10 +48,11 @@ Several storage options are available on Rivanna and Afton.
 | `/project` | Leased (1 TB+) | Optional; purchased by faculty PI | Shared group data **and** running HPC jobs | Research Project storage; snapshots; paid |
 | `/standard` | Leased (1 TB+); PIs may get up to 10 TB free | Optional; requested by faculty PI | Longer-term shared results | Research Standard; slower; **don't run jobs here** |
 
+**None of the storage offerings provide backups. You should make it a habit to transfer data to other storage locations.**
+
 Only PIs (faculty) can lease or expand group storage via the [storage request form](https://forms.rc.virginia.edu/form/storage/). **Students cannot place storage change requests.**
 
-Full comparison: 
-- [Storage options](https://rc.virginia.edu/services/compute-and-storage/storage)
+Full comparison: [Storage options](https://rc.virginia.edu/services/compute-and-storage/storage)
 
 ### Practical pattern
 
