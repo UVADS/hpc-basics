@@ -19,6 +19,7 @@ Published site: [https://uvads.github.io/hpc-basics/](https://uvads.github.io/hp
 - **Getting access**: how to get an RC account and connect
 - **Open OnDemand interactive apps**: JupyterLab, RStudio, VS Code, Desktop
 - **Running a batch job**: submitting and managing jobs
+- **Advanced**: beyond basic interactive apps and single-job scripts
 - **Tools**: common software and workflows on HPC
 - **Getting help**: RC documentation and support contacts
 

@@ -30,6 +30,7 @@ This site introduces **UVA Research Computing (RC)** high-performance computing 
   - VSCode (CodeServer)
   - Desktop sessions
 - [**Running a batch job**]({{ "/docs/batch-jobs/" | relative_url }})
+- [**Advanced**]({{ "/docs/advanced/" | relative_url }})
 - [**Tools**]({{ "/docs/tools/" | relative_url }})
 - [**Getting help**]({{ "/docs/getting-help/" | relative_url }})
 
