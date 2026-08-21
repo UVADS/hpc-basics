@@ -11,7 +11,7 @@ last_modified_date: "2026-08-20 04:20PM"
 
 The Open OnDemand **Desktop** app starts a full Linux desktop on a **compute node** with the resources you request (including GPUs when needed). Prefer this for compute-heavy GUI work instead of FastX on a login/frontend node.
 
-Official overview: [Open OnDemand](https://www.rc.virginia.edu/userinfo/hpc/ood/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 

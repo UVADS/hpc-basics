@@ -3,14 +3,14 @@ layout: default
 title: Getting access
 nav_order: 3
 permalink: /docs/getting-access/
-last_modified_date: "2026-08-20 03:55PM"
+last_modified_date: "2026-08-20 08:15PM"
 ---
 
 # Getting access
 
-To use Rivanna and Afton you need a **UVA computing ID** (NetBadge) and membership in a faculty PI’s **allocation** (managed with Grouper). Students and most trainees do **not** request allocations themselves.
+To use Rivanna and Afton you need a **UVA computing ID** (NetBadge) and membership in a faculty PI's **allocation** (managed with Grouper). Students and most trainees do **not** request allocations themselves.
 
-Official guides: [Access to HPC resources](https://www.rc.virginia.edu/userinfo/hpc/access/) · [Logging in](https://www.rc.virginia.edu/userinfo/hpc/login/)
+Official guides: [Get access to HPC resources](https://rc.virginia.edu/getting-started/get-access-high-performance-computing-resources) · [SSZ login](https://rc.virginia.edu/request-manage/ssz-login) · [Request & Manage](https://rc.virginia.edu/request-manage)
 
 ## What you need
 
@@ -22,14 +22,14 @@ Official guides: [Access to HPC resources](https://www.rc.virginia.edu/userinfo/
 Eligibility notes (from RC):
 
 - Faculty may serve as PI and request HPC allocations and storage.
-- Graduate and undergraduate students **cannot** request allocations—their advisor or instructor must.
+- Graduate and undergraduate students **cannot** request allocations; their advisor or instructor must.
 - Sponsored-account users can join a faculty Grouper group but cannot request RC services as PI.
 
-Allocation types (standard, purchased, instructional) are summarized under [RC resources]({{ "/docs/rc-resources/" | relative_url }}). Full request details: [Access to HPC resources](https://www.rc.virginia.edu/userinfo/hpc/access/).
+Allocation types (standard, purchased, instructional) are summarized under [RC resources]({{ "/docs/rc-resources/" | relative_url }}). Full request details: [Get access to HPC resources](https://rc.virginia.edu/getting-started/get-access-high-performance-computing-resources) · forms on [Request & Manage](https://rc.virginia.edu/request-manage).
 
 ### Grouper (for PIs)
 
-Access is controlled by **Grouper** group membership ([Grouper / group management](https://virginia.service-now.com/its/?id=itsweb_kb_article&sys_id=dbe787581b9e3514a4fb33b61a4bcb37); VPN required to use the portal). For a new group, note that it will be used for Rivanna/Afton access, add yourself as a member, then submit the allocation request. ITS has short tutorials on creating groups and adding members (linked from the RC access page).
+Access is controlled by **Grouper** group membership ([group management](https://in.virginia.edu/group-management); VPN required to use the portal). For a new group, note that it will be used for Rivanna/Afton access, add yourself as a member, then submit the allocation request (for example the [standard allocation form](https://forms.rc.virginia.edu/form/allocation-standard/)).
 
 ## How to log in
 
@@ -49,12 +49,12 @@ ssh YOUR_COMPUTING_ID@login.hpc.virginia.edu
 
 Off Grounds, use the [UVA VPN](https://in.virginia.edu/vpn) (prefer **More Secure Network** when available) for SSH and FastX. Open OnDemand does not require VPN.
 
-More detail: [Logging in](https://www.rc.virginia.edu/userinfo/hpc/login/) · [Open OnDemand](https://www.rc.virginia.edu/userinfo/hpc/ood/)
+More detail: [SSZ login](https://rc.virginia.edu/request-manage/ssz-login) · [Open OnDemand apps]({{ "/docs/open-ondemand/" | relative_url }}) · [Interactive apps (learning portal)](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/)
 
 ## After you can log in
 
 1. Confirm you can open [Open OnDemand](https://ood.hpc.virginia.edu/) and see your home directory.
-2. Learn where data should live ([RC resources — Storage]({{ "/docs/rc-resources/" | relative_url }})).
+2. Learn where data should live ([RC resources: Storage]({{ "/docs/rc-resources/" | relative_url }})).
 3. Try an interactive app ([Open OnDemand interactive apps]({{ "/docs/open-ondemand/" | relative_url }})) or a simple batch job later.
 
 If login fails after you were added to a group, wait a short time for membership to propagate, confirm your NetBadge password, then contact [RC support]({{ "/docs/getting-help/" | relative_url }}) with your computing ID and PI/group name.

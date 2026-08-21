@@ -21,11 +21,11 @@ Get started with UVA Research Computing HPC resources, interactive apps, and bat
 
 ## What's this guide for?
 
-This site introduces **UVA Research Computing (RC)** high-performance computing for data science and research workflows—from getting an account, to launching interactive apps in Open OnDemand, to running batch jobs.
+This site introduces **UVA Research Computing (RC)** high-performance computing for data science and research workflows: from getting an account, to launching interactive apps in Open OnDemand, to running batch jobs.
 
 ## Contents
 
-- [**RC resources**]({{ "/docs/rc-resources/" | relative_url }}) — HPC/GPU resources and storage
+- [**RC resources**]({{ "/docs/rc-resources/" | relative_url }}): HPC/GPU resources and storage
 - [**Getting access**]({{ "/docs/getting-access/" | relative_url }})
 - [**Open OnDemand interactive apps**]({{ "/docs/open-ondemand/" | relative_url }})
   - JupyterLab & notebooks
@@ -35,8 +35,6 @@ This site introduces **UVA Research Computing (RC)** high-performance computing 
 - [**Running a batch job**]({{ "/docs/batch-jobs/" | relative_url }})
 - [**Tools**]({{ "/docs/tools/" | relative_url }})
 - [**Getting help**]({{ "/docs/getting-help/" | relative_url }})
-  - Links to RC website & documentation
-  - Contacting RC support
 
 ## Contributing
 

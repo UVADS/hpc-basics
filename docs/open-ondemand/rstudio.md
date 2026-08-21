@@ -11,7 +11,7 @@ last_modified_date: "2026-08-20 04:20PM"
 
 RStudio Server on Rivanna/Afton is an Open OnDemand interactive app: a full RStudio IDE in the browser on a **compute node**.
 
-Official guide: [RStudio Server and UVA HPC](https://www.rc.virginia.edu/userinfo/hpc/software/rstudio/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 
@@ -24,10 +24,10 @@ You can navigate the cluster filesystem from within RStudio. If the browser disc
 
 ## Tips for data science
 
-- Install packages as you would locally, subject to cluster network and module constraints (outbound access is limited; some sites are whitelisted—see RC’s RStudio page).
+- Install packages as you would locally, subject to cluster network and module constraints (outbound access is limited; some sites are whitelisted; see RC’s RStudio page).
 - Put large data under `/scratch` or `/project` ([storage overview]({{ "/docs/rc-resources/" | relative_url }})).
 - For long, non-interactive R jobs, prefer a [batch job]({{ "/docs/batch-jobs/" | relative_url }}) over an open RStudio session.
 
 ## Example scripts & codes
 
-*Placeholder — example R scripts and projects will be added here.*
+*Placeholder: example R scripts and projects will be added here.*

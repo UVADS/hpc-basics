@@ -12,13 +12,13 @@ A **batch job** is work you submit to the scheduler (**Slurm** on Rivanna/Afton)
 
 Use batch jobs when interactive Open OnDemand apps are too limited (long runtimes, larger CPU/GPU/memory needs, overnight training, or many sequential/parallel steps). Interactive development still belongs in [Open OnDemand]({{ "/docs/open-ondemand/" | relative_url }}); production-scale runs belong here.
 
-Official guide: [Slurm Job Manager (RC)](https://www.rc.virginia.edu/userinfo/hpc/slurm/)
+Guide: [Slurm from the CLI (RC Learning Portal)](https://learning.rc.virginia.edu/notes/slurm-from-cli/section2/)
 
 ## Software modules (Lmod)
 
 Most central software on Rivanna/Afton is exposed through **Lmod**. Use `module spider`, `module avail`, and `module load` to find and enable compilers, R, Python stacks, and domain packages. In job scripts, load modules **after** the `#SBATCH` lines and **before** your application commands (see next section). Prefer `module purge` first so the job does not inherit modules from your login shell.
 
-Guide: [Software modules](https://www.rc.virginia.edu/userinfo/hpc/software/modules/)
+Orientation and tutorials: [Complete orientation](https://rc.virginia.edu/getting-started/complete-orientation) · [RC Learning Portal](https://learning.rc.virginia.edu/)
 
 ## Job scripts
 
@@ -68,7 +68,7 @@ module load miniforge
 python myscript.py
 ```
 
-For a conda env or container-backed run, activate that environment (or `apptainer exec …`) after loading modules—same pattern as interactive kernels on [JupyterLab]({{ "/docs/open-ondemand/jupyterlab/" | relative_url }}).
+For a conda env or container-backed run, activate that environment (or `apptainer exec …`) after loading modules; same pattern as interactive kernels on [JupyterLab]({{ "/docs/open-ondemand/jupyterlab/" | relative_url }}).
 
 ### Rscript job
 
@@ -108,4 +108,4 @@ Watch the `-o` / `-e` files for application output and errors.
 
 Most common commands: `sbatch`, `squeue`, `scancel`, `sacct`, `seff`, `sinfo` (partition/node overview), `scontrol`.
 
-Full options, partitions, arrays, and advanced patterns: [Slurm Job Manager — UVA Research Computing](https://www.rc.virginia.edu/userinfo/hpc/slurm/) · [Slurm from the CLI (learning portal)](https://learning.rc.virginia.edu/notes/slurm-from-cli/section2/)
+Full options, partitions, arrays, and advanced patterns: [Slurm from the CLI (learning portal)](https://learning.rc.virginia.edu/notes/slurm-from-cli/section2/) · [RC Training](https://rc.virginia.edu/training)

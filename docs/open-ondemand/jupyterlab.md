@@ -11,7 +11,7 @@ last_modified_date: "2026-08-20 04:30PM"
 
 JupyterLab on Rivanna/Afton runs as an Open OnDemand interactive app on a **compute node** (not a login node). Use it for notebooks, exploratory analysis, and light ML/DL work with optional GPUs.
 
-Official guide: [JupyterLab and UVA HPC](https://www.rc.virginia.edu/userinfo/hpc/software/jupyterlab/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 ## Launch
 
@@ -25,8 +25,8 @@ Keep the OOD **My Interactive Sessions** tab available so you can reconnect or d
 ## Tips for data science
 
 - Prefer `/scratch` or `/project` for large inputs/outputs; keep notebooks and small scripts in `/home` or a project path ([storage overview]({{ "/docs/rc-resources/" | relative_url }})).
-- Prefer a **custom kernel** when you need a fixed package stack (see below)—don’t rely only on the default OOD Python.
-- Interactive sessions have time and resource limits—use [batch jobs]({{ "/docs/batch-jobs/" | relative_url }}) for long training runs.
+- Prefer a **custom kernel** when you need a fixed package stack (see below). Don’t rely only on the default OOD Python.
+- Interactive sessions have time and resource limits; use [batch jobs]({{ "/docs/batch-jobs/" | relative_url }}) for long training runs.
 
 ## Custom JupyterLab kernels
 
@@ -41,11 +41,11 @@ Two common patterns on Rivanna/Afton:
 
 In both cases Jupyter stores a small **kernel spec** under `~/.local/share/jupyter/kernels/` that tells OOD how to start that environment. Create or register kernels from an SSH shell, FastX, or OOD **HPC Shell Access** and not from a terminal *inside* an already-running JupyterLab session (RC notes that can put the kernel in the wrong place).
 
-Step-by-step (conda and containers): [Custom Jupyter kernels (RC)](https://www.rc.virginia.edu/userinfo/howtos/rivanna/custom-jupyter-kernels/).
+Step-by-step for container-backed kernels: [Custom Jupyter Kernel (RC Learning Portal)](https://learning.rc.virginia.edu/notes/containers-for-hpc/using/#custom-jupyter-kernel).
 
-For containerized kernels aimed at data science / ML on UVA HPC—including `jkrollout` / `jkrollout2` helpers and examples that reuse the same image for interactive and batch work—see **[UVADS/jlab-hpc-containers](https://github.com/UVADS/jlab-hpc-containers)**.
+For containerized kernels aimed at data science / ML on UVA HPC, including `jkrollout` / `jkrollout2` helpers and examples that reuse the same image for interactive and batch work, see **[UVADS/jlab-hpc-containers](https://github.com/UVADS/jlab-hpc-containers)**.
 
 ## Example scripts & codes
 
-*Placeholder — example notebooks and scripts will be added here.*
+*Placeholder: example notebooks and scripts will be added here.*
 

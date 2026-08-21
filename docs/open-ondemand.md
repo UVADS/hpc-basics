@@ -7,11 +7,11 @@ permalink: /docs/open-ondemand/
 last_modified_date: "2026-08-20 04:10PM"
 ---
 
-# Open OnDemand interactive apps
+# OOD Interactive Apps
 
 [Open OnDemand (OOD)](https://ood.hpc.virginia.edu/) is RC’s browser portal to Rivanna and Afton. From one dashboard you get a file browser, shell access, job tools, and **Interactive Apps** that run on allocated compute nodes so you can develop and explore without installing HPC clients locally. VPN is not required for OOD (see [Getting access]({{ "/docs/getting-access/" | relative_url }})).
 
-Official docs: [Open OnDemand at RC](https://www.rc.virginia.edu/userinfo/hpc/ood/) · [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
+Guides: [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/) · [SSZ login](https://rc.virginia.edu/request-manage/ssz-login) · Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
 Sessions use the **interactive** partition and draw from your group’s allocation (time and resource limits apply). Pick an app under **Interactive Apps**, fill in cores/memory/time (and GPU if needed), then **Launch**.
 
