@@ -15,7 +15,7 @@ Published site: [https://uvads.github.io/hpc-basics/](https://uvads.github.io/hp
 
 ## Contents
 
-- **RC resources**: HPC/GPU resources and storage
+- **RC Services**: HPC/GPU resources and storage
 - **Getting access**: how to get an RC account and connect
 - **Open OnDemand interactive apps**: JupyterLab, RStudio, VS Code, Desktop
 - **Running a batch job**: submitting and managing jobs

@@ -20,7 +20,7 @@ Start with the official UVA Research Computing site and training materials:
 - [Training](https://rc.virginia.edu/training)
 - [RC Learning Portal](https://learning.rc.virginia.edu/)
 
-Related pages on this site: [RC resources]({{ "/docs/rc-resources/" | relative_url }}) · [Getting access]({{ "/docs/getting-access/" | relative_url }}) · [Tools]({{ "/docs/tools/" | relative_url }})
+Related pages on this site: [RC Services]({{ "/docs/services/" | relative_url }}) · [Getting access]({{ "/docs/getting-access/" | relative_url }}) · [Tools]({{ "/docs/tools/" | relative_url }})
 
 ## Contacting RC support
 

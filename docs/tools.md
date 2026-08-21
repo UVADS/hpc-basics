@@ -20,7 +20,7 @@ It is aimed at day-to-day HPC workflow support from your laptop: monitor and man
 
 [Globus](https://learning.rc.virginia.edu/notes/globus-data-transfer/) is RC's recommended service for moving **large** datasets to and from HPC storage (`/home`, `/scratch`, `/project`, `/standard`), lab machines, cloud, and other institutions. Use the managed collection **UVA Standard Security Storage** in the Globus File Manager; install [Globus Connect Personal](https://www.globus.org/globus-connect-personal) on a laptop first. For highly sensitive / Ivy data, use the high-security transfer path described in that tutorial and on [Ivy/Rio](https://rc.virginia.edu/services/compute-and-storage/ivyrio).
 
-Also useful: [Globus tutorial](https://learning.rc.virginia.edu/notes/globus-data-transfer/) · storage notes on [RC resources]({{ "/docs/rc-resources/" | relative_url }})
+Also useful: [Globus tutorial](https://learning.rc.virginia.edu/notes/globus-data-transfer/) · storage notes on [RC Services]({{ "/docs/services/" | relative_url }})
 
 ## Apptainer containers
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: RC resources
+title: RC Services
 nav_order: 2
-permalink: /docs/rc-resources/
-last_modified_date: "2026-08-20 08:10PM"
+permalink: /docs/services/
+last_modified_date: "2026-08-20 09:45PM"
 ---
 
-# RC resources
+# RC Services
 
 [UVA Research Computing (RC)](https://rc.virginia.edu/) provides shared HPC and research storage for compute- and data-intensive work. For most data science projects you will use the **Rivanna** and **Afton** clusters (scheduled with Slurm) with attached storage options.
 

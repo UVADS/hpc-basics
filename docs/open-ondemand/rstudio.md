@@ -27,7 +27,7 @@ You can navigate the cluster filesystem from within RStudio. If the browser disc
 ## Tips for data science
 
 - Install packages as you would locally, subject to cluster network and module constraints (outbound access is limited; some sites are whitelisted; see RC’s RStudio page).
-- Put large data under `/scratch` or `/project` ([storage overview]({{ "/docs/rc-resources/" | relative_url }})).
+- Put large data under `/scratch` or `/project` ([storage overview]({{ "/docs/services/" | relative_url }})).
 - For long, non-interactive R jobs, prefer a [batch job]({{ "/docs/batch-jobs/" | relative_url }}) over an open RStudio session.
 
 ## Example scripts & codes

@@ -46,7 +46,7 @@ Submit with:
 sbatch myjob.slurm
 ```
 
-Stage large inputs under `/scratch` or `/project` ([storage]({{ "/docs/rc-resources/" | relative_url }})). Replace `YOUR_ALLOCATION` in the examples with your group’s account name.
+Stage large inputs under `/scratch` or `/project` ([storage]({{ "/docs/services/" | relative_url }})). Replace `YOUR_ALLOCATION` in the examples with your group’s account name.
 
 ## Job examples
 

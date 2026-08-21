@@ -21,7 +21,7 @@ This site introduces **UVA Research Computing (RC)** high-performance computing 
 
 ## Contents
 
-- [**RC resources**]({{ "/docs/rc-resources/" | relative_url }}): HPC/GPU resources and storage
+- [**RC Services**]({{ "/docs/services/" | relative_url }}): HPC/GPU resources and storage
 - [**Getting access**]({{ "/docs/getting-access/" | relative_url }})
 - [**Take the Tutorial**]({{ "/docs/tutorial/" | relative_url }})
 - [**OOD interactive apps**]({{ "/docs/open-ondemand/" | relative_url }})

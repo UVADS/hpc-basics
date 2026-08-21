@@ -26,7 +26,7 @@ Keep the OOD **My Interactive Sessions** tab available so you can reconnect or d
 
 ## Tips for data science
 
-- Prefer `/scratch` or `/project` for large inputs/outputs; keep notebooks and small scripts in `/home` or a project path ([storage overview]({{ "/docs/rc-resources/" | relative_url }})).
+- Prefer `/scratch` or `/project` for large inputs/outputs; keep notebooks and small scripts in `/home` or a project path ([storage overview]({{ "/docs/services/" | relative_url }})).
 - Prefer a **custom kernel** when you need a fixed package stack (see below). Don’t rely only on the default OOD Python.
 - Interactive sessions have time and resource limits; use [batch jobs]({{ "/docs/batch-jobs/" | relative_url }}) for long training runs.
 
