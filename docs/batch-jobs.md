@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Running a batch job
-nav_order: 5
+nav_order: 6
 permalink: /docs/batch-jobs/
 last_modified_date: "2026-08-20 04:50PM"
 ---
@@ -18,7 +18,9 @@ Guide: [Slurm from the CLI (RC Learning Portal)](https://learning.rc.virginia.ed
 
 Most central software on Rivanna/Afton is exposed through **Lmod**. Use `module spider`, `module avail`, and `module load` to find and enable compilers, R, Python stacks, and domain packages. In job scripts, load modules **after** the `#SBATCH` lines and **before** your application commands (see next section). Prefer `module purge` first so the job does not inherit modules from your login shell.
 
-Orientation and tutorials: [Complete orientation](https://rc.virginia.edu/getting-started/complete-orientation) · [RC Learning Portal](https://learning.rc.virginia.edu/)
+Orientation and tutorials:
+- [Complete orientation](https://rc.virginia.edu/getting-started/complete-orientation)
+- [RC Learning Portal](https://learning.rc.virginia.edu/)
 
 ## Job scripts
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting help
-nav_order: 7
+nav_order: 8
 permalink: /docs/getting-help/
 last_modified_date: "2026-08-20 08:15PM"
 ---

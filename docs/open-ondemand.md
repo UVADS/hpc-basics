@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OOD interactive apps
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: /docs/open-ondemand/
 last_modified_date: "2026-08-20 04:10PM"
