@@ -15,7 +15,7 @@ To use Rivanna and Afton you need a **UVA computing ID** (NetBadge) and membersh
 | Role | What to do |
 | --- | --- |
 | **Student / collaborator** | Ask your PI or course instructor to add you to their Grouper group for the allocation. Then log in (below). |
-| **Faculty PI** | Create a Grouper group, add yourself as a member, request a standard (or other) allocation, then add students. |
+| **Faculty PI** | Create a Grouper group, add yourself as a member, request a standard (or other) allocation, then add students, postdocs, scientific staff. |
 
 Eligibility notes (from RC):
 
