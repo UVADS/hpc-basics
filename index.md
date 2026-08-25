@@ -13,6 +13,8 @@ last_modified_date: "2026-08-20 03:00PM"
 Get started with UVA Research Computing HPC resources, interactive apps, and batch computing.
 {: .fs-6 .fw-300 }
 
+[Browse on GitHub](https://github.com/UVADS/hpc-basics/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 ---
 
 ## What's this guide for?
