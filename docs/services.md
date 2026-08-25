@@ -28,7 +28,7 @@ Overview: [Compute and Storage](https://rc.virginia.edu/services/compute-and-sto
 
 - **Standard**: free, renews about yearly, normal queue priority
 - **Purchased**: paid SUs, higher priority, do not expire
-- **Instructional**: free, limited SUs for teaching only, normal queue priority; typically expire about two weeks after the class or training ends
+- **Instructional**: free, limited SUs for teaching only, lowest queue priority; typically expire about two weeks after the class or training ends
 - **Dedicated computing**: paid, provides exclusive access to nodes of a specific hardware type. 
 
 **Only faculty can request an allocation.** They can add students to the allocation as needed.
