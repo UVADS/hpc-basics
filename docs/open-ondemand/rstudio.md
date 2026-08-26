@@ -20,6 +20,7 @@ Links:
 1. Log in at [Open OnDemand](https://ood.hpc.virginia.edu/) with NetBadge.
 2. **Interactive Apps** → **RStudio Server**.
 3. Fill in the form (allocation, partition/time, cores/memory; select an R version).
+   > **Note:** Request only the cores, memory, GPUs, and wall time you need. Smaller, shorter jobs usually start sooner because the scheduler can fit them into free capacity more easily.
 4. Click **Launch**. When ready, click **Connect to RStudio Server**.
 
 You can navigate the cluster filesystem from within RStudio. If the browser disconnects, reopen the session from **My Interactive Sessions** while the job is still running. Delete the session when done to free resources.

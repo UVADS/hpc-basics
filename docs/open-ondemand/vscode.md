@@ -20,6 +20,7 @@ Links:
 1. Log in at [Open OnDemand](https://ood.hpc.virginia.edu/) with NetBadge.
 2. **Interactive Apps** → **Code Server** (name may appear as Code Server / VS Code).
 3. Request allocation, time, cores/memory (and GPU if needed), then **Launch**.
+   > **Note:** Request only the cores, memory, GPUs, and wall time you need. Smaller, shorter jobs usually start sooner because the scheduler can fit them into free capacity more easily.
 4. Connect when the session is ready. When finished, **delete** the session under **My Interactive Sessions**.
 
 ## Tips for data science

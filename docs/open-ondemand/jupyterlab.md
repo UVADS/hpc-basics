@@ -21,6 +21,7 @@ Links:
 1. Log in at [Open OnDemand](https://ood.hpc.virginia.edu/) with NetBadge.
 2. **Interactive Apps** → **JupyterLab**.
 3. Fill in the form (allocation, partition/time, cores/memory, working directory; request a GPU if needed).
+   > **Note:** Request only the cores, memory, GPUs, and wall time you need. Smaller, shorter jobs usually start sooner because the scheduler can fit them into free capacity more easily.
 4. Click **Launch**. When the job starts, click **Connect to Jupyter**.
 
 Keep the OOD **My Interactive Sessions** tab available so you can reconnect or delete the session when finished (that releases resources).

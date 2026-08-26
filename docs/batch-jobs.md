@@ -41,6 +41,8 @@ Typical directives:
 | `-J` / `--job-name=` | Job name |
 | `-o` / `-e` | Stdout / stderr files |
 
+> **Note:** Request only the cores, memory, GPUs, and wall time you need. Smaller, shorter jobs usually start sooner because the scheduler can fit them into free capacity more easily.
+
 General Python job script template:
 
 ```bash

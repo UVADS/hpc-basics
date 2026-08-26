@@ -20,6 +20,7 @@ Links:
 1. Log in at [Open OnDemand](https://ood.hpc.virginia.edu/) with NetBadge.
 2. **Interactive Apps** → **Desktop**.
 3. Choose allocation, time, cores/memory, and GPU if your GUI app needs one.
+   > **Note:** Request only the cores, memory, GPUs, and wall time you need. Smaller, shorter jobs usually start sooner because the scheduler can fit them into free capacity more easily.
 4. **Launch**, then connect to the desktop when the job starts.
 
 ## When to use it
