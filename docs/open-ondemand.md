@@ -13,6 +13,7 @@ last_modified_date: "2026-08-20 04:10PM"
 
 Links: 
 - [Interactive apps overview](https://learning.rc.virginia.edu/notes/hpc-intro/interactive_apps/interactive/)
+- [Watch: Interactive Apps with Open OnDemand](https://learning.rc.virginia.edu/tutorials/interactive-apps-ood/)
 - [SSZ login](https://rc.virginia.edu/request-manage/ssz-login)
 - Portal: [ood.hpc.virginia.edu](https://ood.hpc.virginia.edu/)
 
